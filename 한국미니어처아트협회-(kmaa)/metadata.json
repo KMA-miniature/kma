@@ -1,0 +1,6 @@
+{
+  "name": "한국미니어처아트협회 (KMAA)",
+  "description": "한국미니어처아트협회 공식 홈페이지 - 교육기관 출강, 프리미엄 강사 양성, MOU 체결 및 수강생 성공 스토리",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
